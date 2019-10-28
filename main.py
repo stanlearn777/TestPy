@@ -1,7 +1,7 @@
 # /usr/bin/python3.5
 
 def main(msg):
-     //Another comment - to verify version control
+     //Another comment - to verify version control - 2nd try
 
     //New comments to create Merge conflicts intentionally
 
