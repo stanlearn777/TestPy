@@ -1,14 +1,7 @@
 # /usr/bin/python3.5
 
 def main(msg):
-     //Another comment - to verify version control - 2nd try
-
-    //New comments to create Merge conflicts intentionally
-
-    //New comments added: Test merge
-
-    //New Branch Vo.x just created
-
+     // Changes made to test
     print(msg)
 
 main("Hello World, I am using PyCharm IDE")
